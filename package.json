@@ -1,6 +1,6 @@
 {
-  "name": "typescript-json-schema",
-  "version": "0.54.0",
+  "name": "@apalchys/typescript-json-schema",
+  "version": "0.55.0",
   "description": "typescript-json-schema generates JSON Schema files from your Typescript sources",
   "main": "dist/typescript-json-schema.js",
   "typings": "dist/typescript-json-schema.d.ts",
@@ -26,11 +26,15 @@
     {
       "name": "Fabian Pirklbauer",
       "email": "hi@fabiandev.io"
+    },
+    {
+      "name": "Andrei Palchys",
+      "email": "andrei@palchys.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:YousefED/typescript-json-schema.git"
+    "url": "git@github.com:apalchys/typescript-json-schema.git"
   },
   "license": "BSD-3-Clause",
   "keywords": [
